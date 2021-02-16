@@ -13,4 +13,10 @@ Preview:
 <img width="531" alt="preview" src="https://user-images.githubusercontent.com/77823772/108004948-2de56b00-6fac-11eb-81ac-998d708eb55b.png">
 
 
+Author: https://github.com/Joyce-Pei
 
+
+Link: https://joyce-pei.github.io/CS5610-P1/index.html
+
+
+Video Demo:
