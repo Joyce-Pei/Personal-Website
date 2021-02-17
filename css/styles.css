@@ -10125,7 +10125,7 @@ input {
   float: left;
 }
 
-button {
+#btn {
     background-color: #bd5d38;
     border: none;
     color: white;
