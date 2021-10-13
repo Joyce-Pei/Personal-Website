@@ -13,7 +13,7 @@
 **Author**: https://github.com/Joyce-Pei
 
 
-**Link**: https://joyce-pei.github.io/CS5610-P1/index.html
+**Link**: https://joyce-pei.github.io/Personal-Website/
 
 
 **Video Demo**:
