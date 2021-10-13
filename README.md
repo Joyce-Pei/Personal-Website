@@ -1,6 +1,3 @@
-# CS5610-P1 
-
-
 ## Yuehan Pei Homepage
 
 
